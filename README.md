@@ -9,4 +9,4 @@
 <strong>Libraries:</strong> pandas, matplotlib, tensorflow, keras
 
 ## Model Performance
-![alt_text](https://github.com/sesankm/digit_recognizer/blob/master/predictions.png)
+![alt_text](https://github.com/sesankm/digit_recognizer/blob/main/predictions.png)
